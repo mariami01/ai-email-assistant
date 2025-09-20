@@ -10,7 +10,7 @@ This project combines **LangChain** and **OpenAI** to:
 ## Installation & Setup
 ### **Clone This Repository**
 ```sh
-git clone [https://github.com/mariami01/finance_sentiment_analysis.git](https://github.com/mariami01/ai-email-assistant)
+git clone https://github.com/mariami01/finance_sentiment_analysis.git
 cd ai-email-assistant
 ```
 ### **Set Up a Virtual Environment**
@@ -23,3 +23,4 @@ venv\Scripts\activate     # On Windows
 ```sh
 pip install -r requirements.txt
 ```
+
